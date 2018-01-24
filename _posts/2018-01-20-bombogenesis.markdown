@@ -12,4 +12,4 @@ Hello all and welcome! If you are veiwing this then that likely means you either
 
 In less scientific terms, its a crazy storm. Coincidentally we, people of the East Coast, were just given a first hand lesson in how absolutely insane these weather systems can be. It was on this day that I decided to stay inside and brew this beer.
 
-<img src="https://imgur.com/aVi1t3e.png" alt="Bombogenesis Artworkk" height="42" width="42">
+<img src="https://imgur.com/aVi1t3e.png" alt="Bombogenesis Artwork" height="42" width="42">
